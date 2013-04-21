@@ -1,0 +1,1 @@
+coffee -wcj out.js ./src
